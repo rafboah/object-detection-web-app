@@ -1,7 +1,7 @@
 import streamlit as st
 from ultralytics import YOLO
 from detect_objects import process_video
-from save_video import save_video
+from src.save_video import save_video
 
 
 st.set_page_config(page_title="Video", page_icon="📸")
