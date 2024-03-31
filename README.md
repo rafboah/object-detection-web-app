@@ -27,7 +27,7 @@ This project is a web-based object detection application powered by YOLOv8 and b
 1. Clone the repository: git clone https://github.com/rafboah/object-detection-web-app.git
 2. Navigate to the project directory: cd object-detection-web-app
 3. Install the required dependencies: pip install -r requirements.txt
-4. Run the Streamlit application: streamlit run Home.py
+4. Run the Streamlit application: streamlit run src/Home.py
 
 ## Usage
 After launching the app, follow these steps:
